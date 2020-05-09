@@ -30,7 +30,7 @@ while opção != 5:
         if n1 < n2:
             print ('O maior dos números {} e {} é o {}'.format(n1,n2,n2))
         if n1 == n2:
-            print ('Os números são iguais'.format(n1,n2))
+            print ('Os números são iguais')
     elif opção == 4:
         n1 = int(input('Digite um número:'))
         n2 = int(input('Digite outro:'))
